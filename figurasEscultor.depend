@@ -1,0 +1,116 @@
+# depslib dependency file v1.0
+1558300994 source:c:\users\cliente\desktop\figuras\figurasescultor\sculptor.cpp
+	"sculptor.h"
+	<string>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<fstream>
+
+1558301020 c:\users\cliente\desktop\figuras\figurasescultor\sculptor.h
+	<iostream>
+	<string>
+	<cmath>
+	<fstream>
+
+1558298989 source:c:\users\cliente\desktop\figuras\figurasescultor\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<string>
+	<sstream>
+	"sculptor.h"
+	"FiguraGeometrica.h"
+	"CutBox.h"
+	"CutSphere.h"
+	"CutEllipsoid.h"
+	"CutVoxel.h"
+	"PutBox.h"
+	"PutSphere.h"
+	"PutVoxel.h"
+	"PutEllipsoid.h"
+	<vector>
+
+1558090148 source:c:\users\cliente\desktop\figuras\figurasescultor\figurageometrica.cpp
+	"FiguraGeometrica.h"
+	"sculptor.h"
+	<cmath>
+	<cstdlib>
+
+1558046167 c:\users\cliente\desktop\figuras\figurasescultor\figurageometrica.h
+	"sculptor.h"
+
+1558049736 source:c:\users\cliente\desktop\figuras\figurasescultor\cutbox.cpp
+	"CutBox.h"
+	"sculptor.h"
+
+1558048382 c:\users\cliente\desktop\figuras\figurasescultor\cutbox.h
+	"sculptor.h"
+	"FiguraGeometrica.h"
+
+1558302288 source:c:\users\cliente\desktop\figuras\figurasescultor\cutellipsoid.cpp
+	"CutEllipsoid.h"
+	"sculptor.h"
+	<cmath>
+	<cstdlib>
+
+1558048740 c:\users\cliente\desktop\figuras\figurasescultor\cutellipsoid.h
+	"sculptor.h"
+	"FiguraGeometrica.h"
+
+1558294008 source:c:\users\cliente\desktop\figuras\figurasescultor\cutsphere.cpp
+	"CutSphere.h"
+	"sculptor.h"
+	<cmath>
+	<cstdlib>
+
+1558048382 c:\users\cliente\desktop\figuras\figurasescultor\cutsphere.h
+	"sculptor.h"
+	"FiguraGeometrica.h"
+
+1558049645 source:c:\users\cliente\desktop\figuras\figurasescultor\cutvoxel.cpp
+	"CutVoxel.h"
+	"sculptor.h"
+
+1558048382 c:\users\cliente\desktop\figuras\figurasescultor\cutvoxel.h
+	"sculptor.h"
+	"FiguraGeometrica.h"
+
+1558090105 source:c:\users\cliente\desktop\figuras\figurasescultor\putbox.cpp
+	"PutBox.h"
+	"sculptor.h"
+	<cmath>
+	<cstdlib>
+
+1558048740 c:\users\cliente\desktop\figuras\figurasescultor\putbox.h
+	"sculptor.h"
+	"FiguraGeometrica.h"
+
+1558302143 source:c:\users\cliente\desktop\figuras\figurasescultor\putellipsoid.cpp
+	"PutEllipsoid.h"
+	"sculptor.h"
+	<cmath>
+	<cstdlib>
+
+1558048382 c:\users\cliente\desktop\figuras\figurasescultor\putellipsoid.h
+	"sculptor.h"
+	"FiguraGeometrica.h"
+
+1558090105 source:c:\users\cliente\desktop\figuras\figurasescultor\putsphere.cpp
+	"PutSphere.h"
+	"sculptor.h"
+	<cmath>
+	<cstdlib>
+
+1558048382 c:\users\cliente\desktop\figuras\figurasescultor\putsphere.h
+	"sculptor.h"
+	"FiguraGeometrica.h"
+
+1558049508 source:c:\users\cliente\desktop\figuras\figurasescultor\putvoxel.cpp
+	"PutVoxel.h"
+	"sculptor.h"
+
+1558048382 c:\users\cliente\desktop\figuras\figurasescultor\putvoxel.h
+	"sculptor.h"
+	"FiguraGeometrica.h"
+
