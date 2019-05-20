@@ -13,7 +13,7 @@
 	<cmath>
 	<fstream>
 
-1558298989 source:c:\users\cliente\desktop\figuras\figurasescultor\main.cpp
+1558338959 source:c:\users\cliente\desktop\figuras\figurasescultor\main.cpp
 	<iostream>
 	<fstream>
 	<cstdlib>
@@ -48,23 +48,23 @@
 	"sculptor.h"
 	"FiguraGeometrica.h"
 
-1558302288 source:c:\users\cliente\desktop\figuras\figurasescultor\cutellipsoid.cpp
+1558338959 source:c:\users\cliente\desktop\figuras\figurasescultor\cutellipsoid.cpp
 	"CutEllipsoid.h"
 	"sculptor.h"
 	<cmath>
 	<cstdlib>
 
-1558048740 c:\users\cliente\desktop\figuras\figurasescultor\cutellipsoid.h
+1558338959 c:\users\cliente\desktop\figuras\figurasescultor\cutellipsoid.h
 	"sculptor.h"
 	"FiguraGeometrica.h"
 
-1558294008 source:c:\users\cliente\desktop\figuras\figurasescultor\cutsphere.cpp
+1558338970 source:c:\users\cliente\desktop\figuras\figurasescultor\cutsphere.cpp
 	"CutSphere.h"
 	"sculptor.h"
 	<cmath>
 	<cstdlib>
 
-1558048382 c:\users\cliente\desktop\figuras\figurasescultor\cutsphere.h
+1558338959 c:\users\cliente\desktop\figuras\figurasescultor\cutsphere.h
 	"sculptor.h"
 	"FiguraGeometrica.h"
 
@@ -86,13 +86,13 @@
 	"sculptor.h"
 	"FiguraGeometrica.h"
 
-1558302143 source:c:\users\cliente\desktop\figuras\figurasescultor\putellipsoid.cpp
+1558338959 source:c:\users\cliente\desktop\figuras\figurasescultor\putellipsoid.cpp
 	"PutEllipsoid.h"
 	"sculptor.h"
 	<cmath>
 	<cstdlib>
 
-1558048382 c:\users\cliente\desktop\figuras\figurasescultor\putellipsoid.h
+1558338959 c:\users\cliente\desktop\figuras\figurasescultor\putellipsoid.h
 	"sculptor.h"
 	"FiguraGeometrica.h"
 
@@ -102,7 +102,7 @@
 	<cmath>
 	<cstdlib>
 
-1558048382 c:\users\cliente\desktop\figuras\figurasescultor\putsphere.h
+1558338959 c:\users\cliente\desktop\figuras\figurasescultor\putsphere.h
 	"sculptor.h"
 	"FiguraGeometrica.h"
 

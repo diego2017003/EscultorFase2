@@ -2,7 +2,7 @@
 #include "sculptor.h"
 #include<cmath>
 #include<cstdlib>
-CutSphere::CutSphere(int x0,int y0,int z0,int raio)
+CutSphere::CutSphere(int x0,int y0,int z0,float raio)
 {
     this->x0= x0;
     this->y0=y0;

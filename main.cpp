@@ -23,7 +23,7 @@ int main()
   vector<FiguraGeometrica*> figs;
   ifstream fin;
   string s,s1;
-  fin.open("C:/Users/Cliente/Desktop/alo.sculptor.txt");
+  fin.open("C:/Users/Cliente/Desktop/alo2.sculptor.txt");
   if(!fin.is_open()){
     cout<<"iiiiiiiiiih";
   }

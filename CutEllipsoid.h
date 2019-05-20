@@ -5,7 +5,7 @@
 class CutEllipsoid:public FiguraGeometrica
 {
     public:
-        CutEllipsoid(int x0=0,int y0=0,int z0=0,int rx=1,int ry=1,int rz=1);
+        CutEllipsoid(int x0=0,int y0=0,int z0=0,float rx=1,float ry=1,float rz=1);
         virtual ~CutEllipsoid();
         void Drawn(Sculptor &t);
     protected:

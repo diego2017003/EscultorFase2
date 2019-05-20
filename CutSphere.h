@@ -5,11 +5,12 @@
 class CutSphere:public FiguraGeometrica
 {
     public:
-        CutSphere(int x0=0,int y0=0,int z0=0,int raio=0);
+        CutSphere(int x0=0,int y0=0,int z0=0,float raio=0);
         virtual ~CutSphere();
         void Drawn(Sculptor &t);
     protected:
-        int x0,y0,z0,raio;
+        int x0,y0,z0;
+        float raio;
     private:
 };
 

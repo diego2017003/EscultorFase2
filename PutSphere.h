@@ -9,8 +9,8 @@ class PutSphere:public FiguraGeometrica
         virtual ~PutSphere();
         void Drawn(Sculptor &t);
     protected:
-         int x0,y0,z0,raio;
-         float r,g,b,a;
+         int x0,y0,z0;
+         float raio,r,g,b,a;
     private:
 };
 

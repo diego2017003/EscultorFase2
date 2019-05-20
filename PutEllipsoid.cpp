@@ -2,7 +2,7 @@
 #include "sculptor.h"
 #include<cmath>
 #include<cstdlib>
-PutEllipsoid::PutEllipsoid(int x0,int y0,int z0,int rx,int ry,int rz,float r,float g,float b,float a)
+PutEllipsoid::PutEllipsoid(int x0,int y0,int z0,float rx,float ry,float rz,float r,float g,float b,float a)
 {
     this->x0= x0;
     this->y0=y0;
@@ -23,8 +23,8 @@ PutEllipsoid::~PutEllipsoid()
 void PutEllipsoid::Drawn(Sculptor &t){
     t.setColor(r,g,b,a);
     t.testaEntrada(x0,y0,z0);
-    t.putEllipsoid(x0,y0,z0,rx,ry,rz);
-    /*int x,x1,y,y1,z,z1;
+    //t.putEllipsoid(x0,y0,z0,rx,ry,rz);
+    int x,x1,y,y1,z,z1;
     x=x0-rx;
     x1=x0+rx;
     y=y0-ry;
@@ -41,5 +41,5 @@ void PutEllipsoid::Drawn(Sculptor &t){
                     }
                 }
             }
-        }*/
+        }
 }
